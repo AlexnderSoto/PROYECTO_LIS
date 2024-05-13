@@ -10,6 +10,7 @@ Autores ✒️
     Oscar Alexander Bonilla Sorto - 01T
     Kevin Salvador Casamalhuapa Turcios - 01T
     Daniel Alejandro Fernández Monterrosa - 01T
+    Samuel Orlando Gómez Orellana - 01T
    
     
 
